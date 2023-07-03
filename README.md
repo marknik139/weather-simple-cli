@@ -58,6 +58,8 @@ $ weather -s [CITY]
 $ weather
 ```
 
+<img width="881" alt="Screenshot 2023-07-03 at 23 14 52" src="https://github.com/marknik139/weather-simple-cli/assets/60853743/13658cb4-6114-4f66-aebe-4a59fc3fdce2">
+
 ## License
 
 ISC License
